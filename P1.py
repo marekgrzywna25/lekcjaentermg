@@ -1,0 +1,2 @@
+print ("Marek")
+print ("Linux")
